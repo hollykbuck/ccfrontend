@@ -11,7 +11,7 @@ npm install
 npm run build
 ```
 
-Static web content would be avaiable in `dist` folder. Copy it to `hellocdk` project. 
+Static web content would be avaiable in `dist` folder. Copy it to `public` subdirectory in `hellocdk` project. 
 
 ## Project Structure
 
