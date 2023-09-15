@@ -2,6 +2,10 @@
 
 This project is the front end part of Code Challenge. 
 
+## Prerequisites
+
+You need Node.js 18 to build this project. 
+
 ## Build
 
 run npm build script to build to dist
