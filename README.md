@@ -10,7 +10,7 @@ run npm build script to build to dist
 npm run build
 ```
 
-copy the dist folder to CDK project.
+Static web content would be avaiable in `dist` folder. Copy it to `hellocdk` project. 
 
 ## Project Structure
 
