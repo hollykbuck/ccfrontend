@@ -2,11 +2,12 @@
 
 This project is the front end part of Code Challenge. 
 
-## build
+## Build
 
 run npm build script to build to dist
 
 ```bash
+npm install
 npm run build
 ```
 
